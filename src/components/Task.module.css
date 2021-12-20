@@ -1,0 +1,15 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  background: none;
+  border: none;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.btn:active {
+  transform: scale(0.9);
+}

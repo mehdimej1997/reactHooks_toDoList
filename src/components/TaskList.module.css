@@ -1,0 +1,9 @@
+.list-item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.container {
+  margin-top: 20px;
+}
